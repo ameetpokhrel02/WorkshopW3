@@ -1,0 +1,15 @@
+/home/amit/Documents/WorkshopW3/Task2/bin/Debug/net9.0/Task2
+/home/amit/Documents/WorkshopW3/Task2/bin/Debug/net9.0/Task2.deps.json
+/home/amit/Documents/WorkshopW3/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/home/amit/Documents/WorkshopW3/Task2/bin/Debug/net9.0/Task2.dll
+/home/amit/Documents/WorkshopW3/Task2/bin/Debug/net9.0/Task2.pdb
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.dll
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/refint/Task2.dll
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.pdb
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/home/amit/Documents/WorkshopW3/Task2/obj/Debug/net9.0/ref/Task2.dll
