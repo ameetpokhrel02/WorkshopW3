@@ -1,0 +1,15 @@
+/home/amit/Documents/WorkshopW3/Task6/bin/Debug/net9.0/Task6
+/home/amit/Documents/WorkshopW3/Task6/bin/Debug/net9.0/Task6.deps.json
+/home/amit/Documents/WorkshopW3/Task6/bin/Debug/net9.0/Task6.runtimeconfig.json
+/home/amit/Documents/WorkshopW3/Task6/bin/Debug/net9.0/Task6.dll
+/home/amit/Documents/WorkshopW3/Task6/bin/Debug/net9.0/Task6.pdb
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.AssemblyInfoInputs.cache
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.AssemblyInfo.cs
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.csproj.CoreCompileInputs.cache
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.sourcelink.json
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.dll
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/refint/Task6.dll
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.pdb
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
+/home/amit/Documents/WorkshopW3/Task6/obj/Debug/net9.0/ref/Task6.dll
