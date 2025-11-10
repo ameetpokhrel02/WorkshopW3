@@ -1,4 +1,4 @@
-﻿// Task 3: If else and Switch
+﻿
 Console.WriteLine("\n=== TASK 3: Age Category ===");
 
 Console.Write("Enter your age: ");
