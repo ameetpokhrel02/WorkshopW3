@@ -1,6 +1,5 @@
 public class Operators
 {
-    // 1. Basic arithmetic operations
     public void Add(int a, int b)
     {
         int sum = a + b;
@@ -25,10 +24,9 @@ public class Operators
         Console.WriteLine($"Division Result: {result}");
     }
     
-    // 2. OddEvenFinder using Ternary Operator (from lecture)
     public void OddEvenFinder(int number)
     {
-        // Ternary operator ? : (from lecture slides)
+       
         string result = (number % 2 == 0) ? "Even Number" : "Odd Number";
         Console.WriteLine(result);
     }
